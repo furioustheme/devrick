@@ -1,6 +1,6 @@
 # Devrick - Bootstrap Portfolio Template ➜ [Demo](https://furioustheme-devrick.netlify.app/)
 
-[![Devrick](https://furioustheme.com/images/products/devrick.png)](https://furioustheme-devrick.netlify.app/)
+[![Devrick](https://furioustheme.com/products/devrick.png)](https://furioustheme-devrick.netlify.app/)
 
 <!-- download -->
 ## Download And installation
